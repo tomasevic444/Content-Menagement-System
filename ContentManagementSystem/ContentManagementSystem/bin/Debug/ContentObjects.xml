@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentObjects>
+  <EditingSoftware>
+    <Name>Adobe Photoshop</Name>
+    <ReleaseDate>1990</ReleaseDate>
+    <ImagePath>file:///C:/Users/Tomas/Desktop/ContentManagementSystem/ContentManagementSystem/Images/adobe_photoshop.png</ImagePath>
+    <RTFFilePath>C:\Users\Tomas\Desktop\ContentManagementSystem\ContentManagementSystem\bin\Debug\richText_20240329141634.rtf</RTFFilePath>
+    <DateAdded>2024-03-29T14:16:34.9017418+01:00</DateAdded>
+  </EditingSoftware>
+  <EditingSoftware>
+    <Name>Affinity Photo </Name>
+    <ReleaseDate>2015</ReleaseDate>
+    <ImagePath>file:///C:/Users/Tomas/Desktop/ContentManagementSystem/ContentManagementSystem/Images/Affinity_Photo.png</ImagePath>
+    <RTFFilePath>C:\Users\Tomas\Desktop\ContentManagementSystem\ContentManagementSystem\bin\Debug\richText_20240329142534.rtf</RTFFilePath>
+    <DateAdded>2024-03-29T14:25:34.9748753+01:00</DateAdded>
+  </EditingSoftware>
+  <EditingSoftware>
+    <Name>Adobe Lightroom</Name>
+    <ReleaseDate>2017</ReleaseDate>
+    <ImagePath>file:///C:/Users/Tomas/Desktop/ContentManagementSystem/ContentManagementSystem/Images/adobe_lightroom.png</ImagePath>
+    <RTFFilePath>C:\Users\Tomas\Desktop\ContentManagementSystem\ContentManagementSystem\bin\Debug\richText_20240329143024.rtf</RTFFilePath>
+    <DateAdded>2024-03-29T14:30:24.2125429+01:00</DateAdded>
+  </EditingSoftware>
+</ContentObjects>
